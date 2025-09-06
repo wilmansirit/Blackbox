@@ -1,0 +1,8 @@
+pandas
+plotly
+plotly.express
+nbformat
+anywidget
+IPython
+jupyterlab
+ipywidgets
